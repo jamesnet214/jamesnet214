@@ -19,4 +19,4 @@
 
 ## Stats
 
-![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=devncore-james&show_icons=true&theme=dracula)
+![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=devncore-james&show_icons=true&theme=dracula&count_private=true)
