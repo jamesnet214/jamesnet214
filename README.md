@@ -19,4 +19,4 @@
 
 ## Stats
 
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=devncore-james&show_icons=true&theme=dracula&count_private=true)
+![James.Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=devncore-james&show_icons=true&theme=dracula&count_private=true)
