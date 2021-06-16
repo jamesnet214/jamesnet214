@@ -53,5 +53,13 @@
 ## _Repositories_
 - devncore/devflow
 - devncore/leagueoflegends
+- devncore/icommander
 - devncore/the-easiest-markdown
+- devncore/emoji-cheat-sheet
+- devncore/the-easiest-yaml
 - devncore/ivaluecommander
+- devncore/wpf-xaml-binding
+- devncore/dependencyproperty
+- devncore/wpf-code-rules
+- devncore/stackoverflow-sample
+- devncore/community
