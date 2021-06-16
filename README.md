@@ -53,7 +53,7 @@
 ## _Repositories_
 - devncore/devflow [Here.](https://github.com/devncore/devflow)
 - devncore/leagueoflegends [Here.](https://github.com/devncore/leagueoflegends)
-- devncore/icommander [Here.](https://github.com/devncore/devflow)
+- devncore/icommander [Here.](https://github.com/devncore/icommander)
 - devncore/the-easiest-markdown [Here.](https://github.com/devncore/the-easiest-markdown)
 - devncore/emoji-cheat-sheet [Here.](https://github.com/devncore/emoji-cheat-sheet)
 - devncore/the-easiest-yaml [Here.](https://github.com/devncore/the-easiest-yaml)
