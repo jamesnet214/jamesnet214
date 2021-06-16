@@ -52,14 +52,14 @@
 
 ## _Repositories_
 - devncore/devflow [Here.](https://github.com/devncore/devflow)
-- devncore/leagueoflegends
-- devncore/icommander
-- devncore/the-easiest-markdown
-- devncore/emoji-cheat-sheet
-- devncore/the-easiest-yaml
-- devncore/ivaluecommander
-- devncore/wpf-xaml-binding
-- devncore/dependencyproperty
-- devncore/wpf-code-rules
-- devncore/stackoverflow-sample
-- devncore/community
+- devncore/leagueoflegends [Here.](https://github.com/devncore/leagueoflegends)
+- devncore/icommander [Here.](https://github.com/devncore/devflow)
+- devncore/the-easiest-markdown [Here.](https://github.com/devncore/the-easiest-markdown)
+- devncore/emoji-cheat-sheet [Here.](https://github.com/devncore/emoji-cheat-sheet)
+- devncore/the-easiest-yaml [Here.](https://github.com/devncore/the-easiest-yaml)
+- devncore/ivaluecommander [Here.](https://github.com/devncore/ivaluecommander)
+- devncore/wpf-xaml-binding [Here.](https://github.com/devncore/wpf-xaml-binding)
+- devncore/dependencyproperty [Here.](https://github.com/devncore/dependencyproperty)
+- devncore/wpf-code-rules [Here.](https://github.com/devncore/wpf-code-rules)
+- devncore/community [Here.](https://github.com/devncore/community)
+- devncore/stackoverflow-sample [Here.](https://github.com/devncore/stackoverflow-sample)
