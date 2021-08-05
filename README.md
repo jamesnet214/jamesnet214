@@ -1,4 +1,4 @@
-## <div align=center>Hi there 👋</div>
+## <div align=center>Hi there <img src="https://raw.githubusercontent.com/hanminsik/hanminsik/main/Hi.gif" width="30px"></div>
 
 <div align=center>I'm Jaewung Lee, a full stack .NET developer from South Korea.</div>
 
