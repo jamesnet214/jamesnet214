@@ -7,5 +7,10 @@
 ## 셋업 순서
 - Windows 업데이트
 
-## 1. Windows 업데이트
-더이상 가능한 업데이트가 없을 때 까지 진행합니다.
+### 1. Windows 업데이트
+
+더이상 가능한 업데이트가 없을 때 까지 진행합니다.  
+지금 다시 시작이 나오면 바로 진행합니다.  
+
+![image](https://user-images.githubusercontent.com/52397976/136691297-a36462a9-e8f6-4534-ba4b-4ec478abd794.png)
+
