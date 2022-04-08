@@ -15,7 +15,7 @@ You can translate Korean into English. Try to read my story.
 | DevNcore | Nuget Packages | DotNetDev | StackOverflow |
 |:-----:|:----------:|:-------------:|:-----------|
 | ![162413043-d6a7a26e-83fa-40b1-a364-2982b779cdbf](https://user-images.githubusercontent.com/52397976/162414840-9a68e074-f3f9-49ab-af3e-5ef33e7ec03f.png) | ![image](https://user-images.githubusercontent.com/52397976/162417212-00f58bbd-9a13-49f6-9d7c-b5b30c86caf3.png) | ![162412571-c12f7e19-e362-4107-81f5-269305172a21](https://user-images.githubusercontent.com/52397976/162414930-6e38ffd0-282a-42ef-b7c5-748b40e8183d.png) | <img src="https://github-readme-stackoverflow.vercel.app/?userID=9438258"/> |
-| [Leauge of Legends](https://github.com/devncore/leagueoflegends)를 비롯한 다양한 레포지터리 | [DevNcore.WPF](https://github.com/devncore/devncore) 등의 닷넷 Nuget Package 제공 | 대한민국 닷넷 커뮤니티 닷넷데브 [활동](https://forum.dotnetdev.kr) | 평판은 아직 낮지만... |
+| [Leauge of Legends](https://github.com/devncore/leagueoflegends)를 비롯한 다양한 레포지터리 | [DevNcore.WPF](https://github.com/devncore/devncore) 등의 닷넷 Nuget Package 제공 | 대한민국 닷넷 커뮤니티 닷넷데브에서  [활동](https://forum.dotnetdev.kr/u/james.lee/summary) | 평판은 아직 낮지만... |
 
 
 <br />
