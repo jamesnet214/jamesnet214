@@ -28,34 +28,10 @@ ___S 등급을 향해 달리고 있는 James___ :smile:
 | <img src="https://github-readme-stats.vercel.app/api?username=jameslee214&orgs=devncore&show_icons=true&theme=buefy&count_private=true&hide_border=true&hide_title=true&disable_animations=true&line_height=25&"/> |
 
 
-## _Tech_
-![](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=C-Sharp)
-![](https://img.shields.io/badge/-.NET-%235C2D91?style=for-the-badge&logo=.NET)
-![](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=Blazor&logoColor=white)
-![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white)
-
-## _IDE_
-![](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual-Studio)
-![](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual-Studio-Code)
-![](https://img.shields.io/badge/-Jupyter-f37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-
-## _Database_
-![](https://img.shields.io/badge/-MSSQL-%23CC2927?style=for-the-badge&logo=Microsoft-SQL-Server)
-![](https://img.shields.io/badge/-MongoDB-47a248?style=for-the-badge&logo=MongoDB&logoColor=white)
-
-## _Community_
-![](https://img.shields.io/badge/-StackOverflow-f58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
-![](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-![](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)
-![](https://img.shields.io/badge/-Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white)
-
-## _Repositories_
-- devncore/devflow [Here.](https://github.com/devncore/devflow)
+## _만들고 있는 중..._
 - devncore/leagueoflegends [Here.](https://github.com/devncore/leagueoflegends)
+- devncore/devncore [Here.](https://github.com/devncore/devncore)
+- devncore/devflow [Here.](https://github.com/devncore/devflow)
 - devncore/icommander [Here.](https://github.com/devncore/icommander)
 - devncore/the-easiest-markdown [Here.](https://github.com/devncore/the-easiest-markdown)
 - devncore/emoji-cheat-sheet [Here.](https://github.com/devncore/emoji-cheat-sheet)
