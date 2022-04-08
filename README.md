@@ -18,8 +18,10 @@ You can translate Korean into English. Try to read my story.
 | [Leauge of Legends](https://github.com/devncore/leagueoflegends)를 비롯한 다양한 레포지터리 | [DevNcore.WPF](https://github.com/devncore/devncore) 등의 닷넷 Nuget Package 제공 | 대한민국 닷넷 커뮤니티 닷넷데브 [활동](https://forum.dotnetdev.kr) | 평판은 아직 낮지만... |
 
 
-
 <br />
+
+___S 등급을 향해 달리고 있는 James___ :smile:
+
 
 | GitHub |
 |:---:|
