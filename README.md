@@ -1,6 +1,3 @@
-
-
-
 # Hello I'm James
 You can translate Korean into English. Try to read my story.
 
