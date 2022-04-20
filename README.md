@@ -27,8 +27,6 @@ ___S 등급을 향해 달리고 있는 James___ :smile:
 
 ## _만들고 있는 중..._
 
-TBD...
-
 - devncore/leagueoflegends [Here.](https://github.com/devncore/leagueoflegends)
 - devncore/devncore [Here.](https://github.com/devncore/devncore)
 - devncore/devflow [Here.](https://github.com/devncore/devflow)
