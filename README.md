@@ -20,7 +20,7 @@ ___S 등급을 향해 달리고 있는 James___ :smile:
 
 | GitHub |
 |:---:|
-| [![Jameslee's github activity graph](https://github-readme-stats.vercel.app/api?username=jameslee214&show_icons=true&theme=cobalt)](https://github.com/jameslee214/github-readme-activity-graph) |
+| [![Jameslee's github activity graph](https://github-readme-stats.vercel.app/api?username=jameslee214&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/jameslee214/github-readme-activity-graph) |
 
 ## _만들고 있는 중..._
 
