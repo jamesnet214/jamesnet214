@@ -23,7 +23,7 @@ ___S 등급을 향해 달리고 있는 James___ :smile:
 | GitHub |
 |:---:|
 | <img src="http://github-readme-streak-stats.herokuapp.com?user=jamesnet214&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats"> |
-| <img src="https://github-readme-stats.vercel.app/api?username=jamesnet214&count_private=true&all_time=true&theme=merko" alt="My GitHub Stats"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=jamesnet214&count_private=true&include_all_commits=true&theme=merko" alt="My GitHub Stats"> |
 
 
 ## _만들고 있는 중..._
