@@ -1,7 +1,7 @@
 # Hello I'm James
 You can translate Korean into English. Try to read my story.
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=jameslee214" alt="jameslee214" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=jamesnet214" alt="jameslee214" /></p>
 
 **한국의 개발자 이재웅입니다.**  특히 닷넷을 사랑하고 WPF를 좋아합니다.
 
