@@ -9,7 +9,6 @@ You can translate Korean into English. Try to read my story.
 
 <img src="https://user-images.githubusercontent.com/52397976/128292642-cb9d58c3-e01e-41c0-8713-14c59f4fb499.gif" width="30px">
 
-
 | DevNcore | Nuget Packages | DotNetDev | StackOverflow |
 |:-----:|:----------:|:-------------:|:-----------:|
 | ![image](https://user-images.githubusercontent.com/52397976/173225919-d3ef24e1-bbc1-4ddc-9077-54ff07c2738d.png) | ![image](https://user-images.githubusercontent.com/52397976/162417212-00f58bbd-9a13-49f6-9d7c-b5b30c86caf3.png) | ![162412571-c12f7e19-e362-4107-81f5-269305172a21](https://user-images.githubusercontent.com/52397976/162414930-6e38ffd0-282a-42ef-b7c5-748b40e8183d.png) | <img src="https://github-readme-stackoverflow.vercel.app/?userID=9438258"/> |
@@ -23,7 +22,7 @@ ___S 등급을 향해 달리고 있는 James___ :smile:
 | GitHub |
 |:---:|
 | <img src="http://github-readme-streak-stats.herokuapp.com?user=jamesnet214&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats"> |
-| <img src="https://github-readme-stats.vercel.app/api?username=jamesnet214&count_private=true&include_all_commits=true&theme=merko" alt="My GitHub Stats"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=jamesnet214&count_private=true&include_all_commits=true&theme=dark" alt="My GitHub Stats"> |
 
 
 ## _만들고 있는 중..._
