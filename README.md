@@ -18,7 +18,6 @@ You can translate Korean into English. Try to read my story.
 
 ___S 등급을 향해 달리고 있는 James___ :smile:
 
-
 | GitHub |
 |:---:|
 | <img src="http://github-readme-streak-stats.herokuapp.com?user=jamesnet214&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats"> |
