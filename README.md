@@ -1,11 +1,10 @@
 # Hello I'm James
-You can translate Korean into English. Try to read my story.
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jamesnet214" alt="jameslee214" /></p>
 
-**한국의 개발자 이재웅입니다.**  특히 닷넷을 사랑하고 WPF를 좋아합니다.
+I'm James, a Korean developer. Especially I love .NET and WPF.
 
-> 저는 대부분의 여가 시간동안에 커뮤니티 소통과 GitHub 오픈소스 작업 등 다양한 개발 활동을 통해 경험하고 성장해 나가고 있습니다. 그리고 가능한 많이 소통하고 공유하는 것이 저에게는 아주 의미있고 즐겁고 큰 행복입니다.
+> I am working hard on the developer community and GitHub open source activities to continue to develop my own lacking abilities. This is my great happiness and the driving force for moving forward. And I'm so glad I got to communicate with you.
 
 <img src="https://user-images.githubusercontent.com/52397976/128292642-cb9d58c3-e01e-41c0-8713-14c59f4fb499.gif" width="30px">
 
