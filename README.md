@@ -14,3 +14,4 @@ I'm James, a Korean developer. Especially I love .NET and WPF.
 | [Leauge of Legends](https://github.com/jamesnet214/leagueoflegends)를 비롯한 다양한 레포지터리 | [DevNcore.WPF](https://github.com/devncore/devncore) 등의 닷넷 Nuget Package 제공 | 대한민국 닷넷 커뮤니티 닷넷데브에서  [활동](https://forum.dotnetdev.kr/u/james.lee/summary) | 평판은 아직 낮지만... 올해 목표 2,000점 돌파하기 |
 
 
+
