@@ -1,14 +1,64 @@
-# Hello I'm James
+# Hello I'm James 👋
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=jamesnet214" alt="jameslee214" /></p>
+여러분 안녕하세요! 'Jamesnet'이 드디어 오픈되었습니다!🎉
 
-I'm James, a Korean developer. Especially I love .NET and WPF.
+우선, 지지하고 관심을 가져주신 모든 분들께 감사의 말씀을 전합니다 🙇🏻‍♀️🙇🏻‍♂️. 여러분들 덕분에 발전할 수 있는 동력을 얻었습니다. 사랑하는 .NET 기술을 더 많은 분들과 공유하고자 하는 마음에서, 각 채널에서 제공하는 컨텐츠를 한 곳에 모아, 여러분들이 필요한 기술 정보를 더 쉽게 찾아볼 수 있도록 했습니다✨.
 
-> I am working hard on the developer community and GitHub open source activities to continue to develop my own lacking abilities. This is my great happiness and the driving force for moving forward. And I'm so glad I got to communicate with you.
 
-<img src="https://user-images.githubusercontent.com/52397976/128292642-cb9d58c3-e01e-41c0-8713-14c59f4fb499.gif" width="30px">
+## 📝 Jamesnet 주요 활동
 
-| DevNcore | Nuget Packages | DotNetDev | StackOverflow |
-|:-----:|:----------:|:-------------:|:-----------:|
-| ![image](https://user-images.githubusercontent.com/52397976/173225919-d3ef24e1-bbc1-4ddc-9077-54ff07c2738d.png) | ![image](https://user-images.githubusercontent.com/52397976/162417212-00f58bbd-9a13-49f6-9d7c-b5b30c86caf3.png) | ![162412571-c12f7e19-e362-4107-81f5-269305172a21](https://user-images.githubusercontent.com/52397976/162414930-6e38ffd0-282a-42ef-b7c5-748b40e8183d.png) | <img src="https://github-readme-stackoverflow.vercel.app/?userID=9438258"/> |
-| [Leauge of Legends](https://github.com/jamesnet214/leagueoflegends)를 비롯한 다양한 레포지터리 | [DevNcore.WPF](https://github.com/devncore/devncore) 등의 닷넷 Nuget Package 제공 | 대한민국 닷넷 커뮤니티 닷넷데브에서  [활동](https://forum.dotnetdev.kr/u/james.lee/summary) | 평판은 아직 낮지만... 올해 목표 2,000점 돌파하기 |
+지금까지 우리의 주요 활동 내용 한 눈에 보기  🙌
+
+- [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5005210?fullName=Jaewung%20Lee) -Developer Technologies
+- [.NET Dev](https://forum.dotnetdev.kr/u/jamesnet214/summary) - .NET Dev Community 
+- [Books](https://jamesnet.dev/books) - WPF INSIDE OUT
+- [WPF Study](https://github.com/jamesnet214/wpf) - 온/오프라인 스터디
+- [Meetup](https://jamesnet.dev/lectures) - WPF 주제 발표
+- [Conferences](https://jamesnet.dev/lectures) - WPF 주제 발표 
+- [Open Source](https://jamesnet.dev/github) - Open Source
+- [Nuget](https://github.com/jamesnet214/jamesnetwpf) - Jamesnet.WPF
+- [Youtube creator](https://www.youtube.com/channel/UCjtjzutyfunsXV0T6evc8pA) - 개발 관련 콘텐츠 
+
+
+## 🎬 Jamesnet 유튜브 채널
+
+더 많은 분들이 WPF 개발 기술을 좋아해주셨으면 좋겠다고 저희의 새로운 유튜브 채널'[Jamesnet](https://www.youtube.com/channel/UCjtjzutyfunsXV0T6evc8pA)'을 개설했습니다. 
+정기적으로 다양한 영상 콘텐츠를 업로드할 예정이니 많은 관심💗 부탁드립니다^^
+
+<a href="https://youtube.com/@jamesnet214">
+<img src="https://user-images.githubusercontent.com/52397976/234247636-6602e21f-c12c-40f0-8cf7-b552f4bc248a.jpg" style="width: auto; max-width: 360px; margin-bottom: 10px"/>
+</a>
+
+#### 🎞영상 콘텐츠
+- WPF 및 개발 영상
+- 타임랩스 작업 영상
+- 제품 언박싱 영상
+- 인테리어 DIY 영상
+- 개발자 커플의 일상
+
+유튜브 채널에서 다음과 같은 컨텐츠를 제공합니다. 많은 관심 부탁드립니다.
+
+
+## 📍운영자들
+
+### 👨🏻‍💻 James
+👋🏻 안녕하세요! 닷넷 개발자 James입니다. 
+
+<img src="https://user-images.githubusercontent.com/52397976/234251292-b5cd721a-df89-4c88-9965-17c6bb68b65b.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
+
+- [GitHub](https://github.com/jamesnet214) - 프로젝트/Open Source
+- [Instagram](https://www.instagram.com/jamesnet214/?igshid=YmMyMTA2M2Y%3D) - 개발자 일상
+- [Facebook](https://www.facebook.com/jamesnet214) - 소통/정보 공유
+- [Linkedin](https://www.linkedin.com/in/jamesnet214) - 직업/소통
+
+### 👩🏻‍💻 Vicky
+👋🏻 你好！안녕하세요! 한국에서 활동하고 있는 중국인 개발자 Vicky입니다.
+
+<img src="https://user-images.githubusercontent.com/52397976/234255707-ec798738-2550-4f1b-9ec7-57324b4346aa.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
+
+
+- [GitHub](https://github.com/quyang115)  - 프로젝트/Open Source
+- [Instagram](https://www.instagram.com/vickyqu115/?igshid=YmMyMTA2M2Y%3D) - 개발자 일상
+- [Facebook](https://www.facebook.com/profile.php?id=100091905613316)- 소통/정보 공유
+
+<br/>
