@@ -43,26 +43,9 @@ I'm James, a Korean developer. Especially I love .NET and WPF.
 유튜브 채널에서 다음과 같은 컨텐츠를 제공합니다. 많은 관심 부탁드립니다.
 
 
-## 📍운영자들
-
 ### 👨🏻‍💻 James
-👋🏻 안녕하세요! 닷넷 개발자 James입니다. 
-
-<img src="https://user-images.githubusercontent.com/52397976/234251292-b5cd721a-df89-4c88-9965-17c6bb68b65b.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
 
 - [GitHub](https://github.com/jamesnet214) - 프로젝트/Open Source
 - [Instagram](https://www.instagram.com/jamesnet214/?igshid=YmMyMTA2M2Y%3D) - 개발자 일상
 - [Facebook](https://www.facebook.com/jamesnet214) - 소통/정보 공유
 - [Linkedin](https://www.linkedin.com/in/jamesnet214) - 직업/소통
-
-### 👩🏻‍💻 Vicky
-👋🏻 你好！안녕하세요! 한국에서 활동하고 있는 중국인 개발자 Vicky입니다.
-
-<img src="https://user-images.githubusercontent.com/52397976/234255707-ec798738-2550-4f1b-9ec7-57324b4346aa.png" style="width: auto; max-width: 120px; margin-bottom: 10px"/>
-
-
-- [GitHub](https://github.com/quyang115)  - 프로젝트/Open Source
-- [Instagram](https://www.instagram.com/vickyqu115/?igshid=YmMyMTA2M2Y%3D) - 개발자 일상
-- [Facebook](https://www.facebook.com/profile.php?id=100091905613316)- 소통/정보 공유
-
-<br/>
