@@ -6,7 +6,7 @@ I'm James, a Korean developer. Especially I love .NET and WPF.
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jamesnet214" alt="jameslee214" /></p>
 
-여러분 안녕하세요! 'Jamesnet'이 드디어 오픈되었습니다!🎉
+여러분 안녕하세요! [Jamesnet](https://jamesnet.dev)이 드디어 오픈되었습니다!🎉
 
 우선, 지지하고 관심을 가져주신 모든 분들께 감사의 말씀을 전합니다 🙇🏻‍♀️🙇🏻‍♂️. 여러분들 덕분에 발전할 수 있는 동력을 얻었습니다. 사랑하는 .NET 기술을 더 많은 분들과 공유하고자 하는 마음에서, 각 채널에서 제공하는 컨텐츠를 한 곳에 모아, 여러분들이 필요한 기술 정보를 더 쉽게 찾아볼 수 있도록 했습니다✨.
 
