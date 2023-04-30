@@ -16,6 +16,7 @@ I'm James, a Korean developer. Especially I love .NET and WPF.
 지금까지 우리의 주요 활동 내용 한 눈에 보기  🙌
 
 - [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5005210?fullName=Jaewung%20Lee) -Developer Technologies
+- [League of Legends](https://www.github.com/jamesnet214/leagueoflegends) - WPF 리그오브래전드
 - [.NET Dev](https://forum.dotnetdev.kr/u/jamesnet214/summary) - .NET Dev Community 
 - [Books](https://jamesnet.dev/books) - WPF INSIDE OUT
 - [WPF Study](https://github.com/jamesnet214/wpf) - 온/오프라인 스터디
@@ -24,7 +25,6 @@ I'm James, a Korean developer. Especially I love .NET and WPF.
 - [Open Source](https://jamesnet.dev/github) - Open Source
 - [Nuget](https://github.com/jamesnet214/jamesnetwpf) - Jamesnet.WPF
 - [Youtube creator](https://www.youtube.com/channel/UCjtjzutyfunsXV0T6evc8pA) - 개발 관련 콘텐츠 
-- [League of Legends](https://www.github.com/jamesnet214/leagueoflegends) - WPF 리그오브래전드
 
 
 ## 🎬 Jamesnet 유튜브 채널
