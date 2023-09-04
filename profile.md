@@ -4,7 +4,7 @@ Name: **Jaewung Lee**
 Date of Birth: June 8, 1987  
 Website: https://jamesnet.dev  
 Email: james@jamesnet.dev  
-GitHub: [jamesnet214](https://github.com/jamesnet214)
+GitHub: [jamesnet214](https://github.com/jamesnet214)  
 SNS: [Blog](https://blog.naver.com/jamesnet214) / [Twitter](https://twitter.com/jamesnet214) / [Instagram](https://www.instagram.com/jamesnet214/)  
 Address: 155-1, Hohyeon-ro, Siheung-si, Gyeonggi-do, South Korea  
 Phone: +82 10-6693-4033  
@@ -17,6 +17,15 @@ Field - Description
 C# WPF: Advanced WPF technical skills and framework design  
 Development Activities: WPF education, meetups, technical sharing through, [WPF book writing](https://jamesnet.dev/books)  
 YouTube: Operating a [YouTube channel](https://www.youtube.com/@jamesnet214) focused on WPF lectures and developer concepts, and running a [YouTube channel](https://www.youtube.com/@RankingHistory_K) showcasing historical chart graphs using WPF animations for statistical videos.
+
+#### GitHub & NuGet Packages
+- [League of Legends](https://github.com/jamesnet214/leagueoflegends)
+- [Wpf Explorer](https://github.com/jamesnet214/wpf-explorer)
+- [DevFlow](https://github.com/jamesnet214/devflow)
+- [Color Picker](https://github.com/jamesnet214/wpf-explorer)
+- [Jamesnet Wpf](https://github.com/jamesnet214/jamesnetwpf) - ([Nuget](https://www.nuget.org/packages/Jamesnet.Wpf) 4.8K)
+
+
 
 #### WPF education
 - [WPF education 1st](https://cafe.naver.com/xamlgroup/9)
