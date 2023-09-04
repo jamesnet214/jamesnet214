@@ -3,8 +3,9 @@
 Name: Jaewung Lee  
 Date of Birth: June 8, 1987  
 Website: https://jamesnet.dev  
-Address: 155-1, Hohyeon-ro, Siheung-si, Gyeonggi-do, South Korea  
 Email: james@jamesnet.dev  
+SNS: [Blog](https://blog.naver.com/jamesnet214) / [Twitter](https://twitter.com/jamesnet214) / [Instagram](https://www.instagram.com/jamesnet214/)  
+Address: 155-1, Hohyeon-ro, Siheung-si, Gyeonggi-do, South Korea  
 Phone: +82 10-6693-4033  
 Specialized Skills: WPF / C# / Architecture / Technology Sharing / [Microsoft MVP](https://mvp.microsoft.com/ko-KR/MVP/profile/5ca6ccaf-1cb4-ed11-b596-000d3a1ad36b)  
 Last Education: Graduated from Gyeonggi Automotive Science High School, Web Design Department (March 2003 - February 2006)  
