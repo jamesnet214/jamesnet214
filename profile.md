@@ -1,6 +1,6 @@
 ### Developer Support Resume
 
-Name: Jaewung Lee  
+Name: **Jaewung Lee**  
 Date of Birth: June 8, 1987  
 Website: https://jamesnet.dev  
 Email: james@jamesnet.dev  
