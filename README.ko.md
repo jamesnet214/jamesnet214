@@ -15,7 +15,7 @@
 - **저서**: "WPF Inside Out" 이재웅 구양 공동 저술 (2023, 한국어) [도서 정보](https://bit.ly/4cWqjjQ)
 - **BiliBili**: WPF 튜토리얼 채널 운영 (구독자 4,400+) [채널 링크](https://bit.ly/3SkYutn)
 - **YouTube**: WPF 튜토리얼, 테크 리뷰 [채널 링크](https://bit.ly/3WBe6eR)
-- **오픈소스**: Jamesnet.Wpf NuGet 패키지 개발 [패키지 링크](https://bit.ly/3WBe6eR)
+- **오픈소스**: Jamesnet.Wpf NuGet 패키지 개발 [패키지 링크](https://www.nuget.org/packages/Jamesnet.Wpf/)
 - **커뮤니티**: Jamesnet.dev 기술 아티클 커뮤니티 운영 [웹사이트](https://jamesnet.dev)
 
 <!-- - **Udemy**: WPF 고급 기술 튜토리얼 시리즈 [강좌 링크](https://bit.ly/4bWk3az) -->
