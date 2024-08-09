@@ -1,51 +1,83 @@
-# Hello I'm James 👋
+# Jaewung Lee  [![English](https://img.shields.io/badge/README.md-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/README.md-中文-red.svg)](README.zh-CN.md) [![한국어](https://img.shields.io/badge/README.md-한국어-green.svg)](README.ko.md)
 
-I'm James, a Korean developer. Especially I love .NET and WPF.
-
-> I am working hard on the developer community and GitHub open source activities to continue to develop my own lacking abilities. This is my great happiness and the driving force for moving forward. And I'm so glad I got to communicate with you.
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=jamesnet214" alt="jameslee214" /></p>
-
-여러분 안녕하세요! [Jamesnet](https://jamesnet.dev)이 드디어 오픈되었습니다!🎉
-
-우선, 지지하고 관심을 가져주신 모든 분들께 감사의 말씀을 전합니다 🙇🏻‍♀️🙇🏻‍♂️. 여러분들 덕분에 발전할 수 있는 동력을 얻었습니다. 사랑하는 .NET 기술을 더 많은 분들과 공유하고자 하는 마음에서, 각 채널에서 제공하는 컨텐츠를 한 곳에 모아, 여러분들이 필요한 기술 정보를 더 쉽게 찾아볼 수 있도록 했습니다✨.
+[![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-Windows%20Development-blue)](https://mvp.microsoft.com/en-us/PublicProfile/5004980)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesnet214/)
+[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/jamesnet214)
 
 
-## 📝 Jamesnet 주요 활동
 
-지금까지 우리의 주요 활동 내용 한 눈에 보기  🙌
+Hello! I'm Jaewung Lee, a WPF Framework Architect developer and Microsoft MVP. Together with Yang Qu ([@vickyqu115](https://github.com/vickyqu115)), I'm contributing to the advancement of WPF and XAML-based technologies through various activities including operating [Jamesnet.dev](https://jamesnet.dev), producing content for Bilibili and YouTube channels, hosting offline seminars, authoring technical books, and creating tutorial videos.
 
-- [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5005210?fullName=Jaewung%20Lee) -Developer Technologies
-- [League of Legends](https://www.github.com/jamesnet214/leagueoflegends) - WPF 리그오브래전드
-- [.NET Dev](https://forum.dotnetdev.kr/u/jamesnet214/summary) - .NET Dev Community 
-- [Books](https://jamesnet.dev/books) - WPF INSIDE OUT
-- [WPF Study](https://github.com/jamesnet214/wpf) - 온/오프라인 스터디
-- [Meetup](https://jamesnet.dev/lectures) - WPF 주제 발표
-- [Conferences](https://jamesnet.dev/lectures) - WPF 주제 발표 
-- [Open Source](https://jamesnet.dev/github) - Open Source
-- [Nuget](https://github.com/jamesnet214/jamesnetwpf) - Jamesnet.WPF
-- [Youtube creator](https://www.youtube.com/channel/UCjtjzutyfunsXV0T6evc8pA) - 개발 관련 콘텐츠 
+## 🚀 Key Activities and Achievements
 
+- **WPF Framework Architecture**: Continuously demonstrating expertise in the WPF field
+- **Microsoft MVP**: Selected in Windows Development category [MVP Profile](https://bit.ly/4cWfsXb)
+- **Offline Seminars**: Conducted over 50 advanced WPF technology seminars [Seminar List](https://bit.ly/4bWk3az)
+- **Book**: Co-authored "WPF Inside Out" with Yang Qu (2023, Korean) [Book Info](https://bit.ly/4cWqjjQ)
+- **BiliBili**: Operating a WPF tutorial channel (4,400+ subscribers) [Channel Link](https://bit.ly/3SkYutn)
+- **YouTube**: WPF tutorials and tech reviews [Channel Link](https://bit.ly/3WBe6eR)
+- **Open Source**: Developed Jamesnet.Wpf NuGet package [Package Link](https://www.nuget.org/packages/Jamesnet.Wpf/)
+- **Community**: Running Jamesnet.dev technical article community [Website](https://jamesnet.dev)
 
-## 🎬 Jamesnet 유튜브 채널
+<!-- - **Udemy**: Advanced WPF Technology Tutorial Series [Course Link](https://bit.ly/4bWk3az) -->
 
-더 많은 분들이 WPF 개발 기술을 좋아해주셨으면 좋겠다고 저희의 새로운 유튜브 채널'[Jamesnet](https://www.youtube.com/channel/UCjtjzutyfunsXV0T6evc8pA)'을 개설했습니다. 
-정기적으로 다양한 영상 콘텐츠를 업로드할 예정이니 많은 관심💗 부탁드립니다^^
+## 💻 Expertise
 
+- WPF Framework Architecture
+- Prism Architecture
+- MVVM Pattern
+- Dependency Injection
+- CustomControl Architecture
+- Animation Architecture
+- Cross-Platform Development (Avalonia UI, Uno Platform)
+- Blazor XAML Hybrid
+- Multi-targeting .NET Framework
+- XAML-Based Perfect Design
+- Azure Services & Azure Open AI Service
 
-#### 🎞영상 콘텐츠
-- WPF 및 개발 영상
-- 타임랩스 작업 영상
-- 제품 언박싱 영상
-- 인테리어 DIY 영상
-- 개발자 커플의 일상
+## 🌟 Major Projects and Open Source Contributions
 
-유튜브 채널에서 다음과 같은 컨텐츠를 제공합니다. 많은 관심 부탁드립니다.
+- [Awesome WPF](https://github.com/jamesnet214/awesome-wpf): Comprehensive resource collection for WPF developers
+- [League of Legends Client](https://github.com/jamesnet214/leagueoflegends): Advanced client application implemented in WPF
+- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf): Library for WPF development
+- [XamlDesign.Wpf](https://github.com/jamesnet214/xamldesignwpf): XAML design tool
+- [Anatomy Analyzer](https://github.com/jamesnet214/anatomyanalyzer): Application for hierarchically analyzing WPF UI layouts included in assemblies
+- [WPF Explorer](https://github.com/jamesnet214/wpf-explorer): Example source code from "WPF Inside Out" book and a Windows Explorer-like WPF application
+- [Reflector](https://github.com/jamesnet214/reflector): Tool for dynamically reading DLLs using Assembly and analyzing classes, interfaces, inheritance, properties, fields, etc.
+- [MAUI-PremierLeague](https://github.com/jamesnet214/maui-premierleague): Premier League data visualization application using MAUI
+- [Dev Flow](https://github.com/jamesnet214/devflow)
+- [Color Picker](https://github.com/jamesnet214/colorpicker)
+- [ICommander](https://github.com/jamesnet214/icommander)
+- [Riot Slider on OpenSilver](https://github.com/jamesnet214/riotslider-opensilver): Riot Slider control implemented using OpenSilver
 
+## 📚 WPF Tutorial Series
 
-### 👨🏻‍💻 James
+1. [Theme Switch](https://github.com/vickyqu115/themeswitch): Theme switching control based on WPF ToggleButton
+2. [Riot Play Button](https://github.com/vickyqu115/riotplaybutton): Implementation of the PLAY button from the League of Legends game client
+3. [Magic Navigation](https://github.com/vickyqu115/navigationbar): Mobile-style navigation interface
+4. [Riot Slider](https://github.com/vickyqu115/riotslider): Custom WPF Slider control
+5. [Smart Date](https://github.com/vickyqu115/smartdate): Modern and flexible DatePicker alternative
+6. [Cupertino TreeView](https://github.com/vickyqu115/cupertino-treeview): Advanced CustomControl TreeView implementation
 
-- [GitHub](https://github.com/jamesnet214) - 프로젝트/Open Source
-- [Instagram](https://www.instagram.com/jamesnet214/?igshid=YmMyMTA2M2Y%3D) - 개발자 일상
-- [Facebook](https://www.facebook.com/jamesnet214) - 소통/정보 공유
-- [Linkedin](https://www.linkedin.com/in/jamesnet214) - 직업/소통
+## 🎤 Conferences
+
+- **Jamesnet Seminar**: Self-hosted seminar series on WPF and XAML-based technologies (Seoul, Nanjing) [GitHub](https://github.com/jamesnet214/wpf)
+- **BMW (Blazor, MAUI, WPF) Meetup**: Main presenter for the WPF session at the .NET technology meetup held at Microsoft Korea Headquarters [GitHub](https://github.com/jamesnet214/wpf-meetup)
+
+## 🎨 Animation and Data Visualization
+
+- [2024 WPF Data Visualization: Premier League Season Rankings](https://bit.ly/3LJa65A)
+- [2019: WPF Data Visualization: Big Data Use Case](https://bit.ly/4cWLsKJ)
+
+## 🤝 Collaborations and Sponsorships
+
+Collaborating with numerous companies including Microsoft, Infragistics, and KHSYSTEMS
+
+## 📫 Contact
+
+- Website: [jamesnet.dev](https://jamesnet.dev)
+- Email: james@jamesnet.dev
+
+I am deeply committed to contributing to the advancement of WPF and .NET technologies. Together with my wife [Yang Qu](https://github.com/vickyqu115), we are dedicated to sharing knowledge and growing the community. We look forward to growing together with you!
+
+<img src="https://komarev.com/ghpvc/?username=jamesnet214" alt="jameslee214"/> 
