@@ -1,7 +1,6 @@
 # 이재웅 (Jaewung Lee)  [![English](https://img.shields.io/badge/README.md-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/README.md-中文-red.svg)](README.zh-CN.md) [![한국어](https://img.shields.io/badge/README.md-한국어-green.svg)](README.ko.md)
 
 [![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-Windows%20Development-blue)](https://mvp.microsoft.com/en-us/PublicProfile/5004980)
-[![GitHub](https://img.shields.io/github/followers/jamesnet214?label=Follow&style=social)](https://github.com/jamesnet214)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesnet214/)
 [![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/jamesnet214)
 
@@ -78,3 +77,5 @@ Microsoft, Infragistics, KHSYSTEMS 등 다수의 기업과 협력
 - 이메일: james@jamesnet.dev
 
 WPF와 .NET 기술의 발전에 깊은 사명감을 가지고 기여하고 있습니다. 아내인 [구양](https://github.com/vickyqu115)과 함께 지식을 공유하고 커뮤니티를 성장시키는 데 전념하고 있습니다. 함께 성장해 나가길 기대합니다!
+
+<img src="https://komarev.com/ghpvc/?username=jamesnet214" alt="jameslee214" style="display: hidden"/> 
