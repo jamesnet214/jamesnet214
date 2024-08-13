@@ -10,7 +10,7 @@ Hello! I'm Jaewung Lee, a WPF Framework Architect developer and Microsoft MVP. T
 
 ## 🚀 Key Activities and Achievements
 
-- **WPF Framework Architecture**: Continuously demonstrating expertise in the WPF field [My Profile](https://jamesnet.dev/profile/jamesnset214)
+- **WPF Framework Architecture**: Continuously demonstrating expertise in the WPF field [My Profile](https://jamesnet.dev/profile/jamesnet214)
 - **Microsoft MVP**: Selected in Windows Development category [MVP Profile](https://bit.ly/4cWfsXb)
 - **Offline Seminars**: Conducted over 50 advanced WPF technology seminars [Seminar List](https://bit.ly/4bWk3az)
 - **Book**: Co-authored "WPF Inside Out" with Yang Qu (2023, Korean) [Book Info](https://bit.ly/4cWqjjQ)
