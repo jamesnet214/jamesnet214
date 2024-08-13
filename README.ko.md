@@ -8,7 +8,7 @@
 
 ## 🚀 주요 활동 및 성과
 
-- **WPF 프레임워크 아키텍처**: WPF 분야에서 지속적인 역량 발휘
+- **WPF 프레임워크 아키텍처**: WPF 분야에서 지속적인 역량 발휘 [프로필 확인](https://jamesnet.dev/profile/jamesnet214)
 - **Microsoft MVP**: Windows Development 분야 선정 [MVP 프로필](https://bit.ly/4cWfsXb)
 - **오프라인 세미나**: 50회 이상의 WPF 고급 기술 세미나 진행 [세미나 목록](https://bit.ly/4bWk3az)
 - **저서**: "WPF Inside Out" 이재웅 구양 공동 저술 (2023, 한국어) [도서 정보](https://bit.ly/4cWqjjQ)
