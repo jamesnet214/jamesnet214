@@ -8,7 +8,7 @@
 
 ## 🚀 主要活动和成就
 
-- **WPF框架架构**：在WPF领域持续展示专业知识
+- **WPF框架架构**：在WPF领域持续展示专业知识 [My Profile](https://jamesnet.dev/profile/jamesnet214)
 - **Microsoft MVP**：在Windows开发类别中被选中 [MVP个人资料](https://bit.ly/4cWfsXb)
 - **线下研讨会**：举办超过50场高级WPF技术研讨会 [研讨会列表](https://bit.ly/4bWk3az)
 - **著作**：与杨曲合著《WPF Inside Out》（2023年，韩语版） [书籍信息](https://bit.ly/4cWqjjQ)
