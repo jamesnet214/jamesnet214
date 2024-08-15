@@ -6,7 +6,7 @@
 
 
 
-Hello! I'm Jaewung Lee, a WPF Framework Architect developer and Microsoft MVP. Together with Yang Qu ([@vickyqu115](https://github.com/vickyqu115)), I'm contributing to the advancement of WPF and XAML-based technologies through various activities including operating [Jamesnet.dev](https://jamesnet.dev), producing content for Bilibili and YouTube channels, hosting offline seminars, authoring technical books, and creating tutorial videos.
+Hello! I'm Jaewung Lee, a WPF Framework Architect developer and Microsoft MVP. Together with Yang Qu ([@vickyqu](https://github.com/vickyqu)), I'm contributing to the advancement of WPF and XAML-based technologies through various activities including operating [Jamesnet.dev](https://jamesnet.dev), producing content for Bilibili and YouTube channels, hosting offline seminars, authoring technical books, and creating tutorial videos.
 
 ## 🚀 Key Activities and Achievements
 
@@ -52,12 +52,12 @@ Hello! I'm Jaewung Lee, a WPF Framework Architect developer and Microsoft MVP. T
 
 ## 📚 WPF Tutorial Series
 
-1. [Theme Switch](https://github.com/vickyqu115/themeswitch): Theme switching control based on WPF ToggleButton
-2. [Riot Play Button](https://github.com/vickyqu115/riotplaybutton): Implementation of the PLAY button from the League of Legends game client
-3. [Magic Navigation](https://github.com/vickyqu115/navigationbar): Mobile-style navigation interface
-4. [Riot Slider](https://github.com/vickyqu115/riotslider): Custom WPF Slider control
-5. [Smart Date](https://github.com/vickyqu115/smartdate): Modern and flexible DatePicker alternative
-6. [Cupertino TreeView](https://github.com/vickyqu115/cupertino-treeview): Advanced CustomControl TreeView implementation
+1. [Theme Switch](https://github.com/jamesnetgroup/themeswitch): Theme switching control based on WPF ToggleButton
+2. [Riot Play Button](https://github.com/jamesnetgroup/riotplaybutton): Implementation of the PLAY button from the League of Legends game client
+3. [Magic Navigation](https://github.com/jamesnetgroup/navigationbar): Mobile-style navigation interface
+4. [Riot Slider](https://github.com/jamesnetgroup/riotslider): Custom WPF Slider control
+5. [Smart Date](https://github.com/jamesnetgroup/smartdate): Modern and flexible DatePicker alternative
+6. [Cupertino TreeView](https://github.com/jamesnetgroup/cupertino-treeview): Advanced CustomControl TreeView implementation
 
 ## 🎤 Conferences
 
@@ -78,6 +78,6 @@ Collaborating with numerous companies including Microsoft, Infragistics, and KHS
 - Website: [jamesnet.dev](https://jamesnet.dev)
 - Email: james@jamesnet.dev
 
-I am deeply committed to contributing to the advancement of WPF and .NET technologies. Together with my wife [Yang Qu](https://github.com/vickyqu115), we are dedicated to sharing knowledge and growing the community. We look forward to growing together with you!
+I am deeply committed to contributing to the advancement of WPF and .NET technologies. Together with my wife [Yang Qu](https://github.com/vickyqu), we are dedicated to sharing knowledge and growing the community. We look forward to growing together with you!
 
 <img src="https://komarev.com/ghpvc/?username=jamesnet214" alt="jameslee214"/> 
