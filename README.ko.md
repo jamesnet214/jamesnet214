@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesnet214/)
 [![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/jamesnet214)
 
-안녕하세요! 저는 WPF 프레임워크 아키텍트 개발자이자 Microsoft MVP인 이재웅입니다. 구양([Yang Qu](https://github.com/vickyqu115))과 함께 [Jamesnet.dev](https://jamesnet.dev) 운영, 빌리빌리와 유튜브 채널 제작, 오프라인 세미나 주최, 기술 서적 집필, 튜토리얼 영상 제작 등 다양한 활동을 통해 WPF와 XAML 기반 기술의 발전에 기여하고 있습니다.
+안녕하세요! 저는 WPF 프레임워크 아키텍트 개발자이자 Microsoft MVP인 이재웅입니다. 구양([Yang Qu](https://github.com/vickyqu))과 함께 [Jamesnet.dev](https://jamesnet.dev) 운영, 빌리빌리와 유튜브 채널 제작, 오프라인 세미나 주최, 기술 서적 집필, 튜토리얼 영상 제작 등 다양한 활동을 통해 WPF와 XAML 기반 기술의 발전에 기여하고 있습니다.
 
 ## 🚀 주요 활동 및 성과
 
@@ -50,12 +50,12 @@
 
 ## 📚 WPF 튜토리얼 시리즈
 
-1. [Theme Switch](https://github.com/vickyqu115/themeswitch): WPF ToggleButton 기반의 테마 전환 컨트롤
-2. [Riot Play Button](https://github.com/vickyqu115/riotplaybutton): 리그 오브 레전드 게임 클라이언트의 PLAY 버튼 구현
-3. [Magic Navigation](https://github.com/vickyqu115/navigationbar): 모바일 스타일의 네비게이션 인터페이스
-4. [Riot Slider](https://github.com/vickyqu115/riotslider): 커스텀 WPF Slider 컨트롤
-5. [Smart Date](https://github.com/vickyqu115/smartdate): 현대적이고 유연한 DatePicker 대안
-6. [Cupertino TreeView](https://github.com/vickyqu115/cupertino-treeview): 고급 CustomControl TreeView 구현
+1. [Theme Switch](https://github.com/jamesnetgroup/themeswitch): WPF ToggleButton 기반의 테마 전환 컨트롤
+2. [Riot Play Button](https://github.com/jamesnetgroup/riotplaybutton): 리그 오브 레전드 게임 클라이언트의 PLAY 버튼 구현
+3. [Magic Navigation](https://github.com/jamesnetgroup/navigationbar): 모바일 스타일의 네비게이션 인터페이스
+4. [Riot Slider](https://github.com/jamesnetgroup/riotslider): 커스텀 WPF Slider 컨트롤
+5. [Smart Date](https://github.com/jamesnetgroup/smartdate): 현대적이고 유연한 DatePicker 대안
+6. [Cupertino TreeView](https://github.com/jamesnetgroup/cupertino-treeview): 고급 CustomControl TreeView 구현
 
 ## 🎤 컨퍼런스
 
@@ -76,6 +76,6 @@ Microsoft, Infragistics, KHSYSTEMS 등 다수의 기업과 협력
 - 웹사이트: [jamesnet.dev](https://jamesnet.dev)
 - 이메일: james@jamesnet.dev
 
-WPF와 .NET 기술의 발전에 깊은 사명감을 가지고 기여하고 있습니다. 아내인 [구양](https://github.com/vickyqu115)과 함께 지식을 공유하고 커뮤니티를 성장시키는 데 전념하고 있습니다. 함께 성장해 나가길 기대합니다!
+WPF와 .NET 기술의 발전에 깊은 사명감을 가지고 기여하고 있습니다. 아내인 [구양](https://github.com/vickyqu)과 함께 지식을 공유하고 커뮤니티를 성장시키는 데 전념하고 있습니다. 함께 성장해 나가길 기대합니다!
 
 <img src="https://komarev.com/ghpvc/?username=jamesnet214" alt="jameslee214" style="display: hidden"/> 
