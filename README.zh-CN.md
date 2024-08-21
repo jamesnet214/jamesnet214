@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesnet214/)
 [![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/jamesnet214)
 
-您好！我是李在雄，一名WPF框架架构开发者和Microsoft MVP。我与杨曲（[@vickyqu](https://github.com/vickyqu)）一起，通过运营[Jamesnet.dev](https://jamesnet.dev)、为哔哩哔哩和YouTube频道制作内容、举办线下研讨会、撰写技术书籍以及创建教程视频等多种活动，为WPF和基于XAML的技术的进步做出贡献。
+您好！我是李在雄，一名WPF框架架构开发者和Microsoft MVP。我与杨曲（[@vickyqu115](https://github.com/vickyqu115)）一起，通过运营[Jamesnet.dev](https://jamesnet.dev)、为哔哩哔哩和YouTube频道制作内容、举办线下研讨会、撰写技术书籍以及创建教程视频等多种活动，为WPF和基于XAML的技术的进步做出贡献。
 
 ## 🚀 主要活动和成就
 
@@ -76,6 +76,6 @@
 - 网站：[jamesnet.dev](https://jamesnet.dev)
 - 邮箱：james@jamesnet.dev
 
-我深深致力于为WPF和.NET技术的进步做出贡献。与我的妻子[杨曲](https://github.com/vickyqu)一起，我们致力于分享知识并发展社区。我们期待与您一同成长！
+我深深致力于为WPF和.NET技术的进步做出贡献。与我的妻子[杨曲](https://github.com/vickyqu115)一起，我们致力于分享知识并发展社区。我们期待与您一同成长！
 
 <img src="https://komarev.com/ghpvc/?username=jamesnet214" alt="jameslee214"/>
