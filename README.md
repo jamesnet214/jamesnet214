@@ -6,7 +6,7 @@
 
 
 
-Hello! I'm Jaewung Lee, a WPF Framework Architect developer and Microsoft MVP. Together with Yang Qu ([@vickyqu](https://github.com/vickyqu)), I'm contributing to the advancement of WPF and XAML-based technologies through various activities including operating [Jamesnet.dev](https://jamesnet.dev), producing content for Bilibili and YouTube channels, hosting offline seminars, authoring technical books, and creating tutorial videos.
+Hello! I'm Jaewung Lee, a WPF Framework Architect developer and Microsoft MVP. Together with Yang Qu ([@vickyqu115](https://github.com/vickyqu115)), I'm contributing to the advancement of WPF and XAML-based technologies through various activities including operating [Jamesnet.dev](https://jamesnet.dev), producing content for Bilibili and YouTube channels, hosting offline seminars, authoring technical books, and creating tutorial videos.
 
 ## 🚀 Key Activities and Achievements
 
@@ -78,6 +78,6 @@ Collaborating with numerous companies including Microsoft, Infragistics, and KHS
 - Website: [jamesnet.dev](https://jamesnet.dev)
 - Email: james@jamesnet.dev
 
-I am deeply committed to contributing to the advancement of WPF and .NET technologies. Together with my wife [Yang Qu](https://github.com/vickyqu), we are dedicated to sharing knowledge and growing the community. We look forward to growing together with you!
+I am deeply committed to contributing to the advancement of WPF and .NET technologies. Together with my wife [Yang Qu](https://github.com/vickyqu115), we are dedicated to sharing knowledge and growing the community. We look forward to growing together with you!
 
 <img src="https://komarev.com/ghpvc/?username=jamesnet214" alt="jameslee214"/> 
