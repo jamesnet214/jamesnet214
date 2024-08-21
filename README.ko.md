@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesnet214/)
 [![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/jamesnet214)
 
-안녕하세요! 저는 WPF 프레임워크 아키텍트 개발자이자 Microsoft MVP인 이재웅입니다. 구양([Yang Qu](https://github.com/vickyqu))과 함께 [Jamesnet.dev](https://jamesnet.dev) 운영, 빌리빌리와 유튜브 채널 제작, 오프라인 세미나 주최, 기술 서적 집필, 튜토리얼 영상 제작 등 다양한 활동을 통해 WPF와 XAML 기반 기술의 발전에 기여하고 있습니다.
+안녕하세요! 저는 WPF 프레임워크 아키텍트 개발자이자 Microsoft MVP인 이재웅입니다. 구양([Yang Qu](https://github.com/vickyqu115))과 함께 [Jamesnet.dev](https://jamesnet.dev) 운영, 빌리빌리와 유튜브 채널 제작, 오프라인 세미나 주최, 기술 서적 집필, 튜토리얼 영상 제작 등 다양한 활동을 통해 WPF와 XAML 기반 기술의 발전에 기여하고 있습니다.
 
 ## 🚀 주요 활동 및 성과
 
@@ -76,6 +76,6 @@ Microsoft, Infragistics, KHSYSTEMS 등 다수의 기업과 협력
 - 웹사이트: [jamesnet.dev](https://jamesnet.dev)
 - 이메일: james@jamesnet.dev
 
-WPF와 .NET 기술의 발전에 깊은 사명감을 가지고 기여하고 있습니다. 아내인 [구양](https://github.com/vickyqu)과 함께 지식을 공유하고 커뮤니티를 성장시키는 데 전념하고 있습니다. 함께 성장해 나가길 기대합니다!
+WPF와 .NET 기술의 발전에 깊은 사명감을 가지고 기여하고 있습니다. 아내인 [구양](https://github.com/vickyqu115)과 함께 지식을 공유하고 커뮤니티를 성장시키는 데 전념하고 있습니다. 함께 성장해 나가길 기대합니다!
 
 <img src="https://komarev.com/ghpvc/?username=jamesnet214" alt="jameslee214" style="display: hidden"/> 
