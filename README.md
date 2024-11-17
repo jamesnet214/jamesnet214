@@ -38,7 +38,10 @@ Hello! I'm Jaewung Lee, a WPF Framework Architect developer and Microsoft MVP. T
 ## 🌟 Major Projects and Open Source Contributions
 
 - [Awesome WPF](https://github.com/jamesnet214/awesome-wpf): Comprehensive resource collection for WPF developers
-- [League of Legends Client](https://github.com/jamesnet214/leagueoflegends): Advanced client application implemented in WPF
+- [League of Legends Client](https://github.com/jamesnetgroup/leagueoflegends-wpf): Advanced client application implemented in WPF
+- [League of Legends Client](https://github.com/jamesnetgroup/leagueoflegends-uno): Advanced client application implemented in Uno Platform
+- [League of Legends Client](https://github.com/jamesnetgroup/leagueoflegends-winui3): Advanced client application implemented in WinUI 3
+- [League of Legends Client](https://github.com/jamesnetgroup/leagueoflegends-uwp): Advanced client application implemented in UWP
 - [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf): Library for WPF development
 - [XamlDesign.Wpf](https://github.com/jamesnet214/xamldesignwpf): XAML design tool
 - [Anatomy Analyzer](https://github.com/jamesnet214/anatomyanalyzer): Application for hierarchically analyzing WPF UI layouts included in assemblies
